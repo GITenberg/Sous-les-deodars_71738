@@ -1,0 +1,42 @@
+_repo: Sous-les-deodars_71738
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+    wikipedia: https://fr.wikipedia.org/wiki/Albert_Savine
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71738'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k97757361
+pgterms:marc905: 20230225124756kipling
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bStock, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sous les déodars
+url: http://www.gutenberg.org/ebooks/71738
